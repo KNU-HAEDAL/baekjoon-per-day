@@ -32,7 +32,7 @@
  <p>강의실의 개수를 출력하라.</p>
 
 # 해설
-[더 자세히 보기](https://velog.io/write?id=b0f94c98-7604-4de3-8a46-cbcaf2a70035)
+[더 자세히 보기](https://velog.io/write?id=b0f94c98-7604-4de3-8a46-cbcaf2a70)
 
 >모든 수업의 시간을 보면서 현재 수업의 S와 강의실 배정 받은 강의의 T 비교
 
