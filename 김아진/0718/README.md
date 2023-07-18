@@ -31,8 +31,8 @@
 
  <p>강의실의 개수를 출력하라.</p>
 
-## 해설
-[더 자세히 보기](https://velog.io/@ppocchi/%EB%B0%B1%EC%A4%80-%EA%B0%95%EC%9D%98%EC%8B%A4-%EB%B0%B0%EC%A0%95-11000%ED%8C%8C%EC%9D%B4%EC%8D%AC)
+## 문제 접근
+<img src="https://velog.velcdn.com/images/ppocchi/post/cc3cc3ac-5b85-4935-afb9-a98244c37bb5/image.png" width="100%">
 
 >모든 수업의 시간을 보면서 현재 수업의 S와 강의실 배정 받은 강의의 T 비교
 
@@ -43,6 +43,7 @@
 - T > s[i]: 강의실 추가, 해당 강의의 T 추가
 - T ≤ s[i]: T 업데이트(기존 T 삭제, 해당 강의의 T 추가)
 3. T를 priority queue로 처리하기
+<img src="https://velog.velcdn.com/images/ppocchi/post/172a2786-3f93-4dc8-9457-c4b08a482729/image.png" width="100%">
 - T를 리스트로 만들어 오름차순으로 정렬하고 맨 앞의 값만 비교 → priority queue 사용
 
 ## 학습 내용

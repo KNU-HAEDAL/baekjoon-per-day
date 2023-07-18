@@ -16,8 +16,8 @@
 ### 출력
 <p>첫째 줄에 최대 사용할 수 있는 회의의 최대 개수를 출력한다.</p>
 
-# 해설
-[자세한 풀이 보러가기](https://velog.io/@ppocchi/%EB%B0%B1%EC%A4%80-1931%EB%B2%88-%ED%9A%8C%EC%9D%98%EC%8B%A4-%EB%B0%B0%EC%A0%95%ED%8C%8C%EC%9D%B4%EC%8D%AC)
+# 문제 접근
+<img src="https://velog.velcdn.com/images/ppocchi/post/c21520cf-9b16-4f46-adc9-d2effa26ebe7/image.png" width="100%">
 
 >모든 회의 시간 보면서 T(최근에 끝난 회의 시간)와 현재의 회의 시작 시간 비교
 
