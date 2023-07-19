@@ -53,7 +53,7 @@
 > 굳이 queue를 써야할까.... 그냥 그래프 다 돌면서 방문 안한 것만 처리
 
 ### 풀이
-<img src="blob:https://velog.io/48a926c9-b598-4e21-b879-f95139777f13" width="80%">
+<img src="[blob:https://velog.io/48a926c9-b598-4e21-b879-f95139777f13](https://github.com/KNU-HAEDAL/baekjoon-per-day/assets/77830408/99b95d70-98fb-42cc-b08b-43349c5645ab)" width="80%">
 
 # 학습 내용
 1. 입력 여러 줄 한번에 받을 때 rstrip 사용하기
