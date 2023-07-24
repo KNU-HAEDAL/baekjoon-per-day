@@ -32,3 +32,8 @@
 
 <p>각 테스트 케이스 사이에는 빈 줄을 하나 출력한다.</p>
 
+# 학습 내용
+1. 파이썬엔 순열, 조합 함수가 있다(미친)
+    - import itertools
+    ...
+    - nCr = itertools.combination(arr, r)
