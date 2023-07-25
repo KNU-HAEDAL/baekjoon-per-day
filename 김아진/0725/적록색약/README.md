@@ -38,3 +38,12 @@ RRRRR</pre>
 
  <p>적록색약이 아닌 사람이 봤을 때의 구역의 개수와 적록색약인 사람이 봤을 때의 구역의 수를 공백으로 구분해 출력한다.</p>
 
+# 학습 내용
+1. 리스트 복사 시 사용하는 slice는 두 객체가 동일한 주소를 가르킴 -> 얕은 복사
+2. 깊은 복사(deep copy)
+   ```python
+   import copy
+   list_A = [1,2,3]
+   list_B = copy.deepcopy(list_A)
+   ```
+
