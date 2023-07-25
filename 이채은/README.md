@@ -22,4 +22,7 @@
 + [0724](https://github.com/KNU-HAEDAL/baekjoon-per-day/tree/main/%EC%9D%B4%EC%B1%84%EC%9D%80/0724)
   __[Gold IV]__   미친 로봇
 
++ [0725](https://github.com/KNU-HAEDAL/baekjoon-per-day/tree/main/%EC%9D%B4%EC%B1%84%EC%9D%80/0725)
+  __[Bronze II]__   운동
+
 
