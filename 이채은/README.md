@@ -28,4 +28,7 @@
 + [0725](https://github.com/KNU-HAEDAL/baekjoon-per-day/tree/main/%EC%9D%B4%EC%B1%84%EC%9D%80/0725)
   __[Bronze II]__   운동
 
++ [0726](https://github.com/KNU-HAEDAL/baekjoon-per-day/tree/main/%EC%9D%B4%EC%B1%84%EC%9D%80/0726)
+  __[Silver III]__   숫자 정사각형
+
 
