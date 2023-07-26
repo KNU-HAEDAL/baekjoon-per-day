@@ -8,4 +8,5 @@
     (4) 해당 범위 내의 (꼭짓점 값이 같은) 모든 size의 정사각형을 answer list에 추가
     (5) answer list 중 max element를 출력
     
-    ![KakaoTalk_20230726_152750872](https://github.com/KNU-HAEDAL/baekjoon-per-day/assets/137969226/709f629f-0602-4271-8bb1-068a3a6b1a4c)
+    
+![image](https://github.com/KNU-HAEDAL/baekjoon-per-day/assets/137969226/892f33ca-bdac-45e6-a89c-d3e2ef491182)
