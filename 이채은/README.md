@@ -11,7 +11,10 @@
   __[Bronze V]__   A+B, __[Bronze V]__   A-B, __[Silver III]__   피보나치 함수
 
 + [0721](https://github.com/KNU-HAEDAL/baekjoon-per-day/tree/main/%EC%9D%B4%EC%B1%84%EC%9D%80/0721)
-  __[Bronze II]__   블랙잭, __[Gold IV]__   도서관     
+  __[Bronze II]__   블랙잭, __[Gold IV]__   도서관
+
++ 0721
+  예.. 놀았어요..
       
      
 ## [7월 넷째 주]
