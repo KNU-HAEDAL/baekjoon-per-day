@@ -1,5 +1,5 @@
  
-## [7월 셋째 주]
+## [7월]
   
 + [0718](https://github.com/KNU-HAEDAL/baekjoon-per-day/tree/main/%EC%9D%B4%EC%B1%84%EC%9D%80/0718)
   __[Silver IV]__   스택    
@@ -15,9 +15,6 @@
 
 + 0721
   예.. 놀았어요..
-      
-     
-## [7월 넷째 주]
 
 + [0723](https://github.com/KNU-HAEDAL/baekjoon-per-day/tree/main/%EC%9D%B4%EC%B1%84%EC%9D%80/0723)
   __[Silver III]__   회전하는 큐, __[Bronze I]__   명령 프롬프트
