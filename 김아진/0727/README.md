@@ -49,17 +49,18 @@
 
 # 문제 풀이
 <img src="https://velog.velcdn.com/images/ppocchi/post/5c520705-77a1-4000-99d7-0bb6ce2c2212/image.png" width="80%">
-1. graph[i][j]가 0인 것만 따로 DFS 돌리기
-2. DFS에서 1부터 9까지 돌면서 가로, 세로, 사각형에 중복되는 숫자 체크하기
+1. graph[i][j]가 0인 것만 따로 백트래킹 돌리기
+2. 재귀함수 안에서 1부터 9까지 돌면서 가로, 세로, 사각형에 중복되는 숫자 체크하기
     방법1. graph 자체에 접근하면서 해당 값이 존재하는 지 판단(느리다)
     방법2. row, col, sqaure 리스트를 따로 만들어 체크(빠르다)
         i: graph의 인덱스로 접근(row는 graph의 i, col은 j, square은 (i/3)*3 + (j/3))
         j: 1부터 9까지의 숫자 존재 여부(1: 있음, 0: 없음)
-3. 초기의 0의 개수와 DFS의 depth가 같다면 종료
+3. 초기의 0의 개수와 depth가 같다면 종료
 
 
 # 학습 내용
+<img src="https://velog.velcdn.com/images/ppocchi/post/95688dc7-a66c-4097-9f4a-b42df58987f2/image.png" width="10%">
+(울고싶어라....)
 1. 백트래킹 구현할 때 종료 조건 반드시 효율적으로 짜기
-    <img src="https://velog.velcdn.com/images/ppocchi/post/95688dc7-a66c-4097-9f4a-b42df58987f2/image.png" width="10%">
-    (울고싶어라....)
     - 재귀 함수 종료시 check 사용하거나 ~~강제 종료 때리기~~
+2. zip
