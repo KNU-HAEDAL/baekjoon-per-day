@@ -1,6 +1,6 @@
 # 7월 27일
 
-[공통 부분 문자열](https://www.acmicpc.net/problem/5582)
+[공통 부분 문자열](https://www.acmicpc.net/problem/5582)  
 
 ## 문제 설명
 두 문자열의 공통 부분 문자열의 길이를 구하라. 어떤 문자열 s의 부분 문자열 t란, s에 t가 연속으로 나타나는 것을 말한다. 예를 들어, 문자열 ABRACADABRA의 부분 문자열은 ABRA, RAC, D, ACADABRA, ABRACADABRA, 빈 문자열 등이다. 하지만, ABRC, RAA, BA, K는 부분 문자열이 아니다.

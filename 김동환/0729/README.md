@@ -1,8 +1,8 @@
 # 7월 29일
 
-2022년도 고리콘 문제들 중 일부 해결
-[배찬우는 배열을 좋아해](https://www.acmicpc.net/problem/11723)
-[도미노 무너트리기](https://www.acmicpc.net/problem/10431)
+2022년도 고리콘 문제들 중 일부 해결  
+[배찬우는 배열을 좋아해](https://www.acmicpc.net/problem/11723)  
+[도미노 무너트리기](https://www.acmicpc.net/problem/10431)  
 
 ## 문제 설명
 ### 배찬우는 배열을 좋아해

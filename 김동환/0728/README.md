@@ -1,7 +1,7 @@
 # 7월 28일
 
-[집합](https://www.acmicpc.net/problem/11723)
-[줄세우기](https://www.acmicpc.net/problem/10431)
+[집합](https://www.acmicpc.net/problem/11723)  
+[줄세우기](https://www.acmicpc.net/problem/10431)  
 
 ## 문제 설명
 ### 집합
