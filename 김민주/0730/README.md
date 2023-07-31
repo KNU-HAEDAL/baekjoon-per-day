@@ -8,7 +8,9 @@
 
 - 반환값이 Null이기 때문에 rev = list.reverse() 실행 시 rev = Null
 - 따라서 list.reverse()하면 list 자체가 역순으로 정렬됨
-  ex) list = [1,2,3] / list.reverse() / 출력 : list = [3,2,1]
+
+ex) list = [1,2,3] / list.reverse() / 출력 : list = [3,2,1]
 
 2. `reversed(list)` : 반환값이 배열임 -> 다른 변수에 저장 가능, 변수수정x
-   ex) list = [1,2,3] / list2 = reverse(list) / 출력: list2 = [3,2,1]
+
+ex) list = [1,2,3] / list2 = reverse(list) / 출력: list2 = [3,2,1]
