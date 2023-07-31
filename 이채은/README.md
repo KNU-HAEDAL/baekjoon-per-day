@@ -28,13 +28,21 @@
 + [0726](https://github.com/KNU-HAEDAL/baekjoon-per-day/tree/main/%EC%9D%B4%EC%B1%84%EC%9D%80/0726)
   __[Silver III]__   숫자 정사각형
 
-+ 0727 - 0802 휴가 갑니다 :)
++ 0727 - 0801 휴가 갑니다 :)
 
 + [0727](https://github.com/KNU-HAEDAL/baekjoon-per-day/tree/main/%EC%9D%B4%EC%B1%84%EC%9D%80/0727)
   __[Gold I]__   책 페이지, __[Silver I]__   곱셈
 
 + [0729](https://github.com/KNU-HAEDAL/baekjoon-per-day/tree/main/%EC%9D%B4%EC%B1%84%EC%9D%80/0729)
   __[Bronze I]__   약수, __[Bronze III]__   직사각형에서 탈출, __[Bronze IV]__   아!
+
++ [0731](https://github.com/KNU-HAEDAL/baekjoon-per-day/tree/main/%EC%9D%B4%EC%B1%84%EC%9D%80/0731)
+  __[Bronze III]__   거울, 오! 거울
+
+
+  
+
+  
 
 
 
