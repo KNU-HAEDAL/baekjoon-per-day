@@ -1,4 +1,4 @@
-# 8월 1일
+# 8월 2일
 
 [우주 탐사선](https://www.acmicpc.net/problem/17182)  
 
