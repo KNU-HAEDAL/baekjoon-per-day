@@ -1,4 +1,4 @@
-* 경북대학교 Goricon이 있길래 한 번 도전해봤다. 
+#### 경북대학교 Goricon이 있길래 한 번 도전해봤다. 
 
 ### [제리와 톰](https://www.acmicpc.net/problem/16430)
   : 파이썬으로 구현    
