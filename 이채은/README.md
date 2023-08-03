@@ -42,8 +42,10 @@
 
 ## [8월]
   
-+ [0802,03](https://github.com/KNU-HAEDAL/baekjoon-per-day/tree/main/%EC%9D%B4%EC%B1%84%EC%9D%80/0718)
-  __[Gold IV]__   가르침 -> 2일에 완료 못해서 3일까지 할 것 같네요..    
++ [0802,03](https://github.com/KNU-HAEDAL/baekjoon-per-day/tree/main/%EC%9D%B4%EC%B1%84%EC%9D%80/0803)
+  __[Gold IV]__   가르침 -> 2일에 완료 못해서 3일까지 할 것 같네요..
+  __[Bronze V]__   제리와 톰, __[Bronze III]__   베시와 데이지, __[Gold IV]__   떡장수와 호랑이
+  
 
   
 
