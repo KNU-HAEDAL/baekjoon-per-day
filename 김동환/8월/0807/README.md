@@ -1,4 +1,4 @@
-# 8월 6일
+# 8월 7일
 
 [낚시왕](https://www.acmicpc.net/problem/17143)  
 
