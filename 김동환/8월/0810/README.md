@@ -1,4 +1,4 @@
-# 8월 9일
+# 8월 10일
 
 [게리맨더링](https://www.acmicpc.net/problem/17471)  
 [게리맨더링 2](https://www.acmicpc.net/problem/17779)  

@@ -1,4 +1,4 @@
-# 8월 9일
+# 8월 11일
 
 [새로운 게임](https://www.acmicpc.net/problem/17780)  
 [새로운 게임 2](https://www.acmicpc.net/problem/17837)  
