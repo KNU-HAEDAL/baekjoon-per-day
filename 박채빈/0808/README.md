@@ -7,5 +7,5 @@
 그냥 string타입으로 입력을 받고 그 앞글자부터 순서대로 출력하면 된다. 
 
 ## 참고자료
-[문자열을 저장하는 벡터](https://post.naver.com/viewer/postView.naver?volumeNo=11055294&memberNo=26040503)
-[string to array](https://www.geeksforgeeks.org/convert-string-char-array-cpp/)
++ [문자열을 저장하는 벡터](https://post.naver.com/viewer/postView.naver?volumeNo=11055294&memberNo=26040503)
++ [string to array](https://www.geeksforgeeks.org/convert-string-char-array-cpp/)
