@@ -1,22 +1,23 @@
-#include <iostream>
+#include <iostream>	
 #include <vector>
 
 using namespace std;
 
-int main(){
-    int n,tmp;
-    vector<int> arr;
-    
-    cin>>n;
+int main(void) {
+	int N;
+	int turn;
+	vector<int> order;
 
-    for(int i=0;i<n;i++){
-        cin>>tmp;
-        arr.insert(arr.begin()+n-tmp-1,i+1);
-    }
+	cin >> N;
 
-    for(int i=0;i<n;i++)
-        cout<<arr[i];
+	for (int i = 0;i < N;i++) {
+		cin >> turn;
+		order.insert(order.begin() + (i - turn), i);
+	}
 
+	for (int i = 0;i < N;i++) {
+		cout << order[i]+1<<" ";
+	}
 
-    return 0;
+	return 0;
 }
