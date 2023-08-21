@@ -54,6 +54,12 @@
 
 + 0817  __[Bronze I]__   DNA 해독
 
++ 0818 예.. 놀았어요..
+
++ 0819  __[Bronze III]__   플러그
+
++ 0820~21  __[Gold III]__   ACM craft
+
 
 
 
