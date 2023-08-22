@@ -60,6 +60,7 @@
 
 + 0820~21  __[Gold III]__   ACM craft
 
++ 0822  __[Gold V]__   감소하는 수      
 
 
 
