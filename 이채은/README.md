@@ -3,25 +3,25 @@
 
 | 날짜         | level        | 문제         |
 | ------------ | ------------ | ------------ |
-| 0718         | Silver IV    | 스택         |
-| 0719         | Silver IV    | 큐           |
+| __0718__     | Silver IV    | 스택         |
+| __0719__     | Silver IV    | 큐           |
 | 0719         | Silver III   | 프린터 큐    |
-| 0720         | Bronze V     | A + B        |
+| __0720__     | Bronze V     | A + B        |
 | 0720         | Bronze V     | A - B        |
 | 0720         | Silver III   | 피보나치 함수 |
-| 0721         | Bronze II    | 블랙잭       |
+| __0721__     | Bronze II    | 블랙잭       |
 | 0721         | Gold IV      | 도서관       |
-| 0723         | Silver III   | 회전하는 큐   |
+| __0723__     | Silver III   | 회전하는 큐   |
 | 0723         | Bronze I     | 명령 프롬프트 |
-| 0724         | Gold IV      | 미친 로봇    |
-| 0725         | Bronze II    | 운동         |
-| 0726         | Silver III   | 숫자 정사각형 | 
-| 0727         | Gold I       | 책 페이지    |
+| __0724__     | Gold IV      | 미친 로봇    |
+| __0725__     | Bronze II    | 운동         |
+| __0726__     | Silver III   | 숫자 정사각형 | 
+| __0727__     | Gold I       | 책 페이지    |
 | 0727         | Silver I     | 곱셈         |
-| 0729         | Bronze I     | 약수         |
+| __0729__     | Bronze I     | 약수         |
 | 0729         | Bronze III   | 직사각형에서 탈출|
 | 0729         | Bronze IV    | 아!         |
-| 0731         | Bronze III   | 거울, 오! 거울|
+| __0731__     | Bronze III   | 거울, 오! 거울|
 
 *) 0727-0801 휴가 갑니다 :)
 
