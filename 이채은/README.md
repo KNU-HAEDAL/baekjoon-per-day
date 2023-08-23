@@ -47,6 +47,7 @@
 | 0819         | Bronze III   | 플러그         |
 | 0821         | Gold III     | ACM craft     |
 | 0822         | Gold V       | 감소하는 수    |
+| 0823         | Bronze II    | 24            |
 
 
 *) 0802- 0804 가르침, 0807-0808 드래곤 앤 던전, 0820-0821 ACM craft.
