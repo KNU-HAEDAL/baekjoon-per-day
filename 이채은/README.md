@@ -4,12 +4,15 @@
 | 날짜         | level        | 문제         |
 | ------------ | ------------ | ------------ |
 | 0718         | Silver IV    | 스택         |
+| 0719         | Silver IV    | 큐           |
+| 0719         | Silver III   | 프린터 큐    |
+| 0720         | Bronze V     | A + B       |
+| 0720         | Bronze V     | A - B       |
+| 0720         | Silver III   | 피보나치 함수 |
 
 
   
-+ 0718  __[Silver IV]__   스택    
-
-+ 0719  __[Silver IV]__   큐, __[Silver III]__   프린터 큐    
+  
 
 + 0720  __[Bronze V]__   A+B, __[Bronze V]__   A-B, __[Silver III]__   피보나치 함수
 
