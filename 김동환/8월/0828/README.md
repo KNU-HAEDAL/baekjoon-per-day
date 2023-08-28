@@ -1,4 +1,4 @@
-# 8월 24일
+# 8월 28일
 
 [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)  
 [주사위 굴리기 2](https://www.acmicpc.net/problem/23288)  
