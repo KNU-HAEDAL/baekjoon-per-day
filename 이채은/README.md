@@ -48,6 +48,9 @@
 | 0821         | Gold III     | ACM craft     |
 | 0822         | Gold V       | 감소하는 수    |
 | 0823         | Bronze II    | 24            |
+| 0825         | Silver I     | Z             |
+| 0826         | Silver V     | 스네이크버드   |
+| 0826         | Gold III     | 양 구출 작전   |
 
 
 *) 0802- 0804 가르침, 0807-0808 드래곤 앤 던전, 0820-0821 ACM craft.
