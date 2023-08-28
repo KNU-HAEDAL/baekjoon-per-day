@@ -7,7 +7,7 @@
   : dfs로 트리를 탐색한다.       
   : 분명 맞게 잘 짰는데, 자꾸 런타임 에러가 떠서 구선생에게 도움을 청했다 ..      
 
-  
-   #### [재귀 깊이를 설정](https://velog.io/@heyoni/16437)하라고 한다. 
+ 
+  #### [재귀 깊이를 설정](https://velog.io/@heyoni/16437)하라고 한다. 
     
    ![image](https://github.com/KNU-HAEDAL/baekjoon-per-day/assets/137969226/ee12e291-0571-4105-a1aa-fdc302aabec4)
